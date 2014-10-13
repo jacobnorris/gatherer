@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mtgdb.info_java_api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/mtgdb.info_java_api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
